@@ -114,7 +114,6 @@ body {
   letter-spacing: -.05rem;
 }
 
-
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -131,7 +130,7 @@ body {
   }
 }
 
-@media (min-width: 62em) {
+@media (min-width: 60em) {
   .featurette-heading {
     margin-top: 7rem;
   }
